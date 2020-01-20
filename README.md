@@ -21,6 +21,7 @@ func main() {
         tsf.SendMSG(tg, dest, "Message here `inline markdown`")
 }
 ```
+
 ### Message with Photo
 ```
 package main
